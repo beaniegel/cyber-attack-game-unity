@@ -1,0 +1,9 @@
+<size=24><b>Beware Of Viruses</b></size>
+
+They can come from the email attachments followed by illegal software and infected files from the internet.
+
+Once on the computer <i>virus</i>:
+
+• Replicate itself;
+• Disrupt normal work of the programs;
+• Take over <i>memory</i> of your computer.

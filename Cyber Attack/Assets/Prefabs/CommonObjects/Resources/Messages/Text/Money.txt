@@ -1,0 +1,5 @@
+<size=24><b>Update Points</b></size>
+
+Keep your security updated! Use Update Points to place Virus scanners on the board. Each one costs 10 points. Each virus you destroy earns you 5 points.
+
+Place your Virus Scanners carefully to maximise your chances of defeating the viruses.

@@ -1,0 +1,5 @@
+<size=24><b>Protect Your Computer</b></size>
+
+By connecting your computer to the unprotected internet connections (e.g. public wifi), downloading files, installing programs from untrusted sources you provide opportunities for dishonest people to hack your personal device.
+
+Pick and install appropriate tools to defend your computer and defeat the hackers <i>before</i> they reach the core of your device and <i>cause you damage!</i>

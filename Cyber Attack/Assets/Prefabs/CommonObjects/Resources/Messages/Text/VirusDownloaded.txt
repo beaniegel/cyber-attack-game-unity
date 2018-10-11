@@ -1,0 +1,5 @@
+<size=24><b>Oh no!</b></size>
+
+You’ve downloaded a <i>virus</i>!
+
+Never click on suspicious links. Especially if they are from people you don't know.

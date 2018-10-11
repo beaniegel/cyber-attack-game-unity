@@ -1,0 +1,10 @@
+<size=24><b>Use Virus Scanner</b></size>
+
+They can detect viruses at the entry points and delete viruses before they damage your computer and take over memory space.
+
+<i>Virus Scanner</i>:
+
+• Can be installed on your computer;
+• Can detect viruses through regular checks;
+• Can destroy viruses;
+• Has limited power, so needs to be purchased regularly.
